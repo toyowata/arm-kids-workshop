@@ -8,7 +8,7 @@
 
 ## プログラム
 
-<img width="400" src="./gravity.png">
+<img width="500" src="./gravity.png">
 
 プロジェクト： https://makecode.microbit.org/_VzE51Pb3AYxa
 
