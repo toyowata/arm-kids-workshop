@@ -18,10 +18,10 @@
 
 ## 使い方
 
-* Aボタンをおすと、フラッシュ<ruby>暗算<rp>(</rp><rt>あんざん</rt><rp>)</rp></ruby>スタート！0〜9の<ruby>数字<rp>(</rp><rt>すうじ</rt><rp>)</rp></ruby>がでます
+* `Aボタン`をおすと、フラッシュ<ruby>暗算<rp>(</rp><rt>あんざん</rt><rp>)</rp></ruby>スタート！0〜9の<ruby>数字<rp>(</rp><rt>すうじ</rt><rp>)</rp></ruby>がでます
 * <ruby>数字<rp>(</rp><rt>すうじ</rt><rp>)</rp></ruby>を<ruby>全部足<rp>(</rp><rt>ぜんぶた</rt><rp>)</rp></ruby>し<ruby>算<rp>(</rp><rt>ざん</rt><rp>)</rp></ruby>してみましょう
-* Bボタンをおして答え合わせしてみよう
+* `Bボタン`をおして答え合わせしてみよう
 
 ## チャレンジ
 
-* 数が出ている<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>を変えてむずかしくしてみよう
+* 数が出ている<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>を<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>えてむずかしくしてみよう
