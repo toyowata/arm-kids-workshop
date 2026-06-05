@@ -10,3 +10,4 @@
 <img width="300" src="./variable.png">
 2. `数を`<ruby>`表示`<rp>(</rp><rt>`ひょうじ`</rt><rp>)</rp></ruby>ブロックの中は、`計算`メニューから`0 + 0`というブロックを<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>んで、そこに<ruby>変数<rp>(</rp><rt>へんすう</rt><rp>)</rp></ruby>をかさねます
 <img width="200" src="./variable_set.png">
+
