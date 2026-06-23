@@ -2,7 +2,7 @@
 
 ## プログラム
 
-<img width="400" src="./sensor1.png">
+<img width="550" src="./sensor1.png">
 
 ## 作り方
 
