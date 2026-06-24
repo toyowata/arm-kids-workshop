@@ -1,3 +1,4 @@
+
 # サイコロを作ろう
 
 ## むずかしさ　★☆☆☆☆
@@ -9,7 +10,7 @@
 
 ## プログラム
 
-<img width="400" src="./dice.png">
+<img width="500" src="./dice.png">
 
 プロジェクト： https://makecode.microbit.org/_eyYKLefCTY0w
 
