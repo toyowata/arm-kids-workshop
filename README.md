@@ -10,7 +10,7 @@
 * [ひみつの通信機を作ろう](./program/ble.md)
 * [メロディーをならそう](./program/melody.md)
 * [もっとメロディーをならそう](./program/melody2.md)
-
+* [ワークショップのデモ](./program/demos.md)
 
 ---
 Copyright 2017-2026 (C) Team Arm, Arm K.K.
