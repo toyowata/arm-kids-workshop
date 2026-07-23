@@ -14,12 +14,12 @@
 
 ## 作り方
 
-1. <ruby>変数<rp>(</rp><rt>へんすう</rt><rp>)</rp></ruby>`名前`を作ります  
-2. <ruby>変数<rp>(</rp><rt>へんすう</rt><rp>)</rp></ruby>`名前`を入れるブロックの<ruby>文字列<rp>(</rp><rt>もじれつ</rt><rp>)</rp></ruby> `" "` は、<ruby>文字列<rp>(</rp><rt>もじれつ</rt><rp>)</rp></ruby>ブロックの一番上のブロックを使います
+1. <ruby>変数<rp>(</rp><rt>へんすう</rt><rp>)</rp></ruby>『名前』を作ります  
+2. 変数『名前』を入れるブロックの<ruby>文字列<rp>(</rp><rt>もじれつ</rt><rp>)</rp></ruby> `" "` は、文字列メニューの一番上のブロックを使います
 
 <img width="250" src="./string.png">  
 
-3. <ruby>`文字列`<rp>(</rp><rt>もじれつ</rt><rp>)</rp></ruby>`を`<ruby>`表示`<rp>(</rp><rt>ひょうじ</rt><rp>)</rp></ruby>ブロックの<ruby>変数<rp>(</rp><rt>へんすう</rt><rp>)</rp></ruby> `receivedString`は、<ruby>`無線`<rp>(</rp><rt>むせん</rt><rp>)</rp></ruby>`で`<ruby>`受信`<rp>(</rp><rt>じゅしん</rt><rp>)</rp></ruby>`したとき`ブロックからコピー（<ruby>変数<rp>(</rp><rt>へんすう</rt><rp>)</rp></ruby>をタップして<ruby>移動<rp>(</rp><rt>いどう</rt><rp>)</rp></ruby>）します
+3. 『文字列を表示』ブロックの変数『receivedString』は、『無線で受信したとき』ブロックからコピー（変数をタップして<ruby>移動<rp>(</rp><rt>いどう</rt><rp>)</rp></ruby>）します
 
 <img width="250" src="./receiveString.png">  
 
@@ -29,4 +29,4 @@
 
 * `Aボタン`をおすと、名前が<ruby>画面<rp>(</rp><rt>がめん</rt><rp>)</rp></ruby>にでます  
 * 名前は他の人のマイクロビットにも送られます  
-* どこまではなれて<ruby>通信<rp>(</rp><rt>つうしん</rt><rp>)</rp></ruby>できるか<ruby>試<rp>(</rp><rt>ため</rt><rp>)</rp></ruby>してみよう  
+* どこまではなれて通信できるか<ruby>試<rp>(</rp><rt>ため</rt><rp>)</rp></ruby>してみよう  
